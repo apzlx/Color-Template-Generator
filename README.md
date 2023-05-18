@@ -1,2 +1,2 @@
 # Color-Template-Generator
-Generates color templates from prompt using OpenAI API
+Website to generates color templates from text input using OpenAI API
