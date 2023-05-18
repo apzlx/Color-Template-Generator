@@ -7,4 +7,3 @@
 - Need to create a new virtual environment in terminal to run Flask
 - CSS file and Javascript file are in Static folder, called in index.html file
 - HTML file in Templates folder
-- 
